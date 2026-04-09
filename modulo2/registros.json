@@ -1,0 +1,47 @@
+{
+  "FLT001": {
+    "codigo": "FLT001",
+    "nombre": "Filtro de aire CB190",
+    "categoria": "filtros",
+    "marca_moto": "honda",
+    "precio": 35000.0,
+    "stock": 12,
+    "descripcion": "Compatible con modelos CB190R y CB190X"
+  },
+  "FRN002": {
+    "codigo": "FRN002",
+    "nombre": "Pastilla de freno delantera",
+    "categoria": "frenos",
+    "marca_moto": "yamaha",
+    "precio": 48500.0,
+    "stock": 8,
+    "descripcion": ""
+  },
+  "MTR003": {
+    "codigo": "MTR003",
+    "nombre": "Kit de arrastre",
+    "categoria": "transmision",
+    "marca_moto": "bajaj",
+    "precio": 120000.0,
+    "stock": 5,
+    "descripcion": "Cadena + corona + pinon"
+  },
+  "ELC004": {
+    "codigo": "ELC004",
+    "nombre": "Regulador de voltaje",
+    "categoria": "electrico",
+    "marca_moto": "honda",
+    "precio": 75000.0,
+    "stock": 3,
+    "descripcion": ""
+  },
+  "SUS005": {
+    "codigo": "SUS005",
+    "nombre": "Amortiguador trasero",
+    "categoria": "suspension",
+    "marca_moto": "yamaha",
+    "precio": 210000.0,
+    "stock": 2,
+    "descripcion": "Repuesto original de fabrica"
+  }
+}
